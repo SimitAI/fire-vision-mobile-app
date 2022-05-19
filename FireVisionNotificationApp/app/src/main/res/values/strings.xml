@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireVisionNotificationApp</string>
+    <string name="ok">OK!</string>
+    <string name="notify">Notify</string>
+    <string name="human">HUMAN</string>
+    <string name="fire">FIRE</string>
+</resources>

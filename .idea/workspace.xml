@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f677162f-7695-4216-b4d9-0eb2a87ed7a5" name="Default Changelist" comment="Fire Vision Mobile App Committed.">
+      <change afterPath="$PROJECT_DIR$/.idea/fire-vision-mobile-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVision.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/androidTest/java/com/example/firevisionnotificationapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/fire_fision_logo-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/fire_gif-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/fire_vision_logo-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/green_tick-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/java/com/example/firevisionnotificationapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/layout/activity_listview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-anydpi-v26/fire_gif.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-anydpi-v26/fire_gif_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-anydpi-v26/fire_vision_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-anydpi-v26/fire_vision_logo_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-anydpi-v26/green_tick.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-anydpi-v26/green_tick_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/fire_gif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/fire_gif_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/fire_gif_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/fire_vision_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/fire_vision_logo_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/fire_vision_logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/green_tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/green_tick_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-hdpi/green_tick_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/fire_gif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/fire_gif_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/fire_gif_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/fire_vision_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/fire_vision_logo_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/fire_vision_logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/green_tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/green_tick_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-mdpi/green_tick_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/fire_gif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/fire_gif_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/fire_gif_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/fire_vision_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/fire_vision_logo_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/fire_vision_logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/green_tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/green_tick_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xhdpi/green_tick_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/fire_gif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/fire_gif_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/fire_gif_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/fire_vision_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/fire_vision_logo_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/fire_vision_logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/green_tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/green_tick_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxhdpi/green_tick_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/fire_gif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/fire_gif_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/fire_gif_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/fire_vision_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/fire_vision_logo_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/fire_vision_logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/green_tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/green_tick_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/mipmap-xxxhdpi/green_tick_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/raw/fire.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/values/fire_gif_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/values/fire_vision_logo_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/values/green_tick_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/app/src/test/java/com/example/firevisionnotificationapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireVisionNotificationApp/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29Nmz574UGMzWvMiILOvxMMJmWI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FireVisionNotificationApp" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f677162f-7695-4216-b4d9-0eb2a87ed7a5" name="Default Changelist" comment="" />
+      <created>1652962176178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652962176178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fire Vision Mobile App Committed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fire Vision Mobile App Committed." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="21" key="CommitChangelistDialog2" timestamp="1652962242392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="21" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1652962242392" />
+    <state x="392" y="216" key="FileChooserDialogImpl" timestamp="1652962365348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="392" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1652962365348" />
+  </component>
+</project>
